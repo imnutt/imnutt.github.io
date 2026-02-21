@@ -19,11 +19,11 @@
       <nav class="site-nav">
         <a href="{{ '/about' | relative_url }}"{% if page.url == '/about/' or page.url == '/about' %} class="active"{% endif %}>about</a>
       </nav>
-    </div>
-    <meta property="og:image" content="https://cdn.jsdelivr.net/gh/nuttblog/images@main/nuttblog.png">
+    </div>    
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
 <meta property="og:type" content="website">
+<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}https://cdn.jsdelivr.net/gh/nuttblog/images@main/nuttblog.png{% endif %}">
   </header>
 
   <main class="container">
