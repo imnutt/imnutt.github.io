@@ -1,4 +1,4 @@
-# Jekyll Theme — Mataroa Style
+# Nutt Theme
 
 เรียบง่าย อ่านง่าย เน้น typography เป็นหลัก
 
