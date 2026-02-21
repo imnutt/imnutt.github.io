@@ -63,8 +63,3 @@ Finally, you must define **"What is my happiness?"** If you don't know what make
 * **The Suze Orman Test:** If I buy this, will it deplete more than 10% of my total emergency savings? 
 
 **If you checked 'No' to any of the first three, you are DENIED.**
-
-___
-<div style="text-align:center; font-size:0.9em;">
-  {{ previous_post }} &nbsp;&nbsp; {{ next_post }}
-</div>
