@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Take One Day at a Time: The Groundhog Day Mindset"
+title: "Take one day at a time"
 date: 2023-05-02 09:00:00 +0700
 ---
 
