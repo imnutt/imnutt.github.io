@@ -22,6 +22,10 @@
         <a href="{{ '/feed.xml' | relative_url }}">rss</a>
       </nav>
     </div>
+    <meta property="og:image" content="https://cdn.jsdelivr.net/gh/nuttblog/images@main/nuttblog.png">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+<meta property="og:type" content="website">
   </header>
 
   <main class="container">
