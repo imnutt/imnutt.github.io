@@ -7,10 +7,14 @@
     {% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}
   </title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}https://cdn.jsdelivr.net/gh/nuttblog/images@main/nuttblog.png{% endif %}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   {% seo %}
-<link rel="icon" type="image/svg+xml" href="/favicon.svg">
 </head>
 <body>
   <header class="site-header">
@@ -19,17 +23,11 @@
       <nav class="site-nav">
         <a href="{{ '/about' | relative_url }}"{% if page.url == '/about/' or page.url == '/about' %} class="active"{% endif %}>about</a>
       </nav>
-    </div>    
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
-<meta property="og:type" content="website">
-<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}https://cdn.jsdelivr.net/gh/nuttblog/images@main/nuttblog.png{% endif %}">
+    </div>
   </header>
-
   <main class="container">
     {{ content }}
   </main>
-
   <footer class="site-footer">
     <div class="container">
       <span>{{ site.title }}</span>
