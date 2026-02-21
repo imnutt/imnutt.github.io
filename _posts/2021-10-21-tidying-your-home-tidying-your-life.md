@@ -2,6 +2,7 @@
 layout: post
 title: "Tidying your home, tidying your life"
 date: 2021-10-21
+category: Personal
 tags: [Mindset]
 ---
 
@@ -50,7 +51,3 @@ This word **"Someday"** represents a future that we don't know when—or if—it
 The moment we get rid of those items, the anxiety about an uncertain future—the anxiety hidden within that "someday"—disappears. 
 
 **All that remains is the "Present."**
-___
-<div style="text-align:center; font-size:0.9em;">
-  {{ previous_post }} &nbsp;&nbsp; {{ next_post }}
-</div>
