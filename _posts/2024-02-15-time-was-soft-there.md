@@ -2,7 +2,8 @@
 layout: post
 title: "Time Was Soft There"
 date: 2024-02-15
-tags: [Books]
+category: Learning
+tags: [book reviews]
 ---
 
 This is a story about a book from the *Bibliophile* series—a gem that is quite hard to find these days. I had been scouting bookstores for a while before I stumbled upon it: **"Time Was Soft There: A Paris Sojourn at Shakespeare & Co."** It’s an old soul, first published around 2005.
@@ -23,7 +24,6 @@ Jeremy’s journey began under grim circumstances. Formerly a crime reporter in 
   <img src="https://nuttideas.wordpress.com/wp-content/uploads/2024/03/0acd8-megeorge1-e1771483422794.jpg" 
        alt="George and Jeremy"
        style="max-width:100%; height:auto;">
-  <br>
   <em>George Whitman in his 80s with Jeremy Mercer.</em>
 </p>
 
@@ -45,8 +45,3 @@ The book captures the atmosphere of Paris between 1999 and 2000. It was a time b
 * **Total Reading Time:** 8 hours (split over 2 days).
 * **Category:** Non-fiction / Memoir.
 * **Legacy:** Shakespeare & Co. remains open to this day, standing as a must-visit pilgrimage site for readers worldwide.
-
-___
-<div style="text-align:center; font-size:0.9em;">
-  {{ previous_post }} &nbsp;&nbsp; {{ next_post }}
-</div>
