@@ -1,6 +1,6 @@
-title: "nuttblog"
+title: "nutt's blog"
 description: "Writing things down."
-author: "Your Name"
+author: "nutt"
 url: "https://nuttblog.github.io"
 baseurl: ""
 
@@ -27,7 +27,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - jekyll-paginate
-  - jekyll-paginate
-  - jekyll-paginate
   - jekyll-paginate
