@@ -425,3 +425,9 @@ pre code {
     margin-left: 0;
   }
 }
+.site-description {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
