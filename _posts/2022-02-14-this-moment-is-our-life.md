@@ -2,6 +2,7 @@
 layout: post
 title: "This moment is our life"
 date: 2022-02-14
+category: Learning
 tags: [Insight]
 ---
 
