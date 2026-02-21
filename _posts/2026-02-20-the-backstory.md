@@ -2,7 +2,7 @@
 layout: post
 title: "The Backstory"
 date: 2026-02-20
-tags: [Personal]
+category: Personal
 ---
 
 I’m currently migrating about 200 posts from an old blog on WordPress.com. My digital history goes back much further, though; 15 years ago, I was self-hosting around 10 different blogs. Some were passion projects, but others were built purely for AdSense. Over time, I let them go one by one, though I still maintain two business sites on WordPress today.
@@ -25,8 +25,3 @@ Surprisingly, the more I let go, the happier I became. Anyone who has decluttere
 Fast forward to today, and I’m reorganizing my digital footprint. I’ve deleted articles that no longer hold value and migrated the rest to Bear Blog because the platform is **clean af**. 
 
 I truly hope Herman keeps this running for a lifetime.
-
-___
-<div style="text-align:center; font-size:0.9em;">
-  {{ previous_post }} &nbsp;&nbsp; {{ next_post }}
-</div>
