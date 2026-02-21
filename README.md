@@ -51,7 +51,7 @@ tags: [tag1, tag2]   # optional
 
 ## Features
 
-- หน้าแรกจัดกลุ่ม posts ตามปี (แบบ mataroa)
+- หน้าแรกจัดกลุ่ม posts ตามปี
 - ไม่มี JavaScript
 - Syntax highlighting ด้วย Rouge
 - RSS feed อัตโนมัติ
