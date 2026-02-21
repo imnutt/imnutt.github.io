@@ -2,7 +2,7 @@ title: "nuttblog"
 description: "Writing things down."
 author: "Your Name"
 url: "https://nuttblog.github.io"
-baseurl: "https://nuttblog.github.io"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
