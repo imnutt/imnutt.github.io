@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-Quiet little blog where I dump thoughts, stories, and life lessons. Not built for clicks, just a personal space to reflect and document the journey.\
-</br>
+<p class="site-description">Quiet little blog where I dump thoughts, stories, and life lessons. Not built for clicks, just a personal space to reflect and document the journey.</p>
+
 <div class="post-list">
   {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year_group in posts_by_year %}
