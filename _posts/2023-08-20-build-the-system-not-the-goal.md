@@ -2,10 +2,11 @@
 layout: post
 title: "Build the system, not the goal"
 date: 2023-08-20
+category: Growth
 tags: [Mindset]
 ---
 
-# Build the System, Not the Goal: Lessons from Atomic Habits
+## Build the System, Not the Goal: Lessons from Atomic Habits
 
 In his book *Atomic Habits*, James Clear shares a transformative insight: **"Build the system, not the goal."** This concept shifted my perspective on personal growth entirely. It emphasizes the power of sustainable habits over the pursuit of a single, fixed outcome.
 
@@ -52,8 +53,3 @@ I designed a 60-minute daily routine using Clear's four laws of behavior change:
 In the long run, the goal shouldn't be "to lose weight" or "to be thin." The focus must be on **"becoming a healthy, fit person."** When you focus on the **system**, you aren't just chasing a number on a scale; you are reinforcing a new identity every single day. 
 
 True success is not winning the game once—it’s building a system that allows you to keep playing for the rest of your life.
-
-___
-<div style="text-align:center; font-size:0.9em;">
-  {{ previous_post }} &nbsp;&nbsp; {{ next_post }}
-</div>
