@@ -21,6 +21,7 @@
     <div class="container">
       <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
       <nav class="site-nav">
+        <a href="{{ '/projects' | relative_url }}"{% if page.url == '/projects/' or page.url == '/projects' %} class="active"{% endif %}>projects</a>
         <a href="{{ '/about' | relative_url }}"{% if page.url == '/about/' or page.url == '/about' %} class="active"{% endif %}>about</a>
       </nav>
     </div>
