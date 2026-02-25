@@ -4,8 +4,6 @@ permalink: /projects/
 layout: page  # or 'default' if you don't have a 'page' layout
 ---
 
-# Projects
-
 A small collection of side projects I've built mostly to solve problems in my own life.  
 They're simple tools, free to use, and still get occasional updates when I feel like tinkering.
 
