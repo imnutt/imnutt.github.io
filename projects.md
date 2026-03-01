@@ -16,12 +16,12 @@ I read a lot in these areas and wanted a quiet place to share honest reviews, ra
 - Status: Actively adding new reviews when I finish good ones. Currently ~68 books reviewed across categories like Sustainability, Nature, Health & Nutrition, Food & Farming, and Simple Living.
   
 
-### 2. MySat (mysat.lovable.app)
+### 2. Bitcoin Convertor
 A real-time converter between Bitcoin (BTC), Satoshis (Sats), Thai Baht (THB), and US Dollars (USD).  
 I built it because I often need to quickly check sats-to-baht or BTC-to-USD without opening heavy apps or exchanges. Updates every 30 seconds via CoinGecko API.
 
-- Link: [mysat.lovable.app](https://mysat.lovable.app)  
-- Built with: Lovable (no-code/low-code platform)  
+- Link: [nutt.cc/btc](https://nutt.cc/btc)  
+- Built with: claude
 - Status: Live and working. Interface is in Thai (since that's my daily use case), but the logic is straightforward.
 
 
