@@ -7,7 +7,7 @@ layout: page  # or 'default' if you don't have a 'page' layout
 A small collection of side projects I've built mostly to solve problems in my own life.  
 They're simple tools, free to use, and still get occasional updates when I feel like tinkering.
 
-### 1. OrganicBook.com
+### 1. organicbook.com
 A curated collection of books on sustainable living, nature, food, health, and simple/organic lifestyles.  
 I read a lot in these areas and wanted a quiet place to share honest reviews, ratings, and why certain books actually matter (instead of just another Amazon list).  
 
@@ -21,7 +21,7 @@ A real-time converter between Bitcoin (BTC), Satoshis (Sats), Thai Baht (THB), a
 I built it because I often need to quickly check sats-to-baht or BTC-to-USD without opening heavy apps or exchanges. Updates every 30 seconds via CoinGecko API.
 
 - Link: [nutt.cc/btc](https://nutt.cc/btc)  
-- Built with: claude
+- Built with: JavaScript
 - Status: Live and working. Interface is in Thai (since that's my daily use case), but the logic is straightforward.
 
 
