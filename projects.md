@@ -25,7 +25,6 @@ I built it because I often need to quickly check sats-to-baht or BTC-to-USD with
 - Status: Live and working. Interface is in Thai (since that's my daily use case), but the logic is straightforward.
 
 
-
 ### 3. 1080 Image Converter (nutt.cc/1080)
 A dead-simple tool that takes any image (HEIC, WEBP, PNG, JPG, TIFF, AVIF, etc.) and converts/resizes it to JPEG at exactly 1080px width — the sweet spot for Instagram, Facebook, X/Twitter, LinkedIn, etc. without cropping or distortion.  
 Supports drag-and-drop for multiple files. Built because I got tired of manually resizing photos every time I post.
@@ -34,6 +33,15 @@ Supports drag-and-drop for multiple files. Built because I got tired of manually
 - Built with: JavaScript (client-side, probably with browser APIs or a lightweight library)  
 - Status: Fully functional, free, no login required.
 
+
+### 4. biocomputer.com
+
+A blog exploring the convergence of biology and computation — from DNA computing and brain-computer interfaces to AI drug discovery, synthetic biology, and longevity science.
+Built to redefine "biocomputer" broadly: anywhere biology meets technology.
+
+* Link: [biocomputer.com](https://biocomputer.com)
+* Built with: Astro, Cloudflare Pages
+* Status: Actively publishing long-form articles across 7 categories.
 
 
 ---
