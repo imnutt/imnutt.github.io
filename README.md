@@ -1,4 +1,4 @@
-# Nutt Blog Theme
+# Nutt Theme
 
 Simple, readable, typography-focused.
 
